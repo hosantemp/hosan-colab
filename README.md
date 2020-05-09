@@ -2,7 +2,7 @@
 
 ![preview](https://raw.githubusercontent.com/hosantemp/hosan-colab/master/src/preview.gif)
 
-# Google-Colab-CloudTorrent <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fhosantemp%2Fhisan-colab" alt="Hits">
+# Hosan_Colab <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fhosantemp%2Fhosan-colab" alt="Hits">
 
 <b>Features:</b><br>
 `Simple Torrent, peerflix-server, deluge, aria2, ariang, rclone, rclone WebUI, Jdownloader, Youtube-dl, Netdata, Cloud Commander, 
@@ -11,7 +11,7 @@ Ssh, noVnc, filebrowser, µTorrent, Transmission Web Control, SocialFish, L3MON,
 
 # Usage
 1. Click on the "Open in Colab" button.
-<a href="https://colab.research.google.com/github/hosantemp/hosan-colab/blob/master/torrentTOmega_gdrive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/hosantemp/hosan-colab/blob/master/hosan-colab.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ### Our telegram group
