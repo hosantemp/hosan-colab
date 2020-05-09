@@ -2,8 +2,7 @@
 
 ![preview](https://raw.githubusercontent.com/hosantemp/hosan-colab/master/src/preview.gif)
 
-# Hosan_Colab <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fhosantemp%2Fhosan-colab" alt="Hits">
-
+# Hosan_Colab
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hosantemp.hosan-colab)
  
