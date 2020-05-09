@@ -2,7 +2,7 @@
 
 ![preview](https://raw.githubusercontent.com/hosantemp/hosan-colab/master/src/preview.gif)
 
-# Google-Colab-CloudTorrent <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbiplobsd%2FGoogle-Colab-CloudTorrent" alt="Hits">
+# Google-Colab-CloudTorrent <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fhosantemp%2Fhisan-colab" alt="Hits">
 
 <b>Features:</b><br>
 `Simple Torrent, peerflix-server, deluge, aria2, ariang, rclone, rclone WebUI, Jdownloader, Youtube-dl, Netdata, Cloud Commander, 
