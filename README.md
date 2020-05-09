@@ -5,7 +5,7 @@
 # Hosan_Colab <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fhosantemp%2Fhosan-colab" alt="Hits">
 
 <!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
+<a href="https://www.hitwebcounter.com" target="https://github.com/hosantemp/hosan-colab/">
 <img src="https://hitwebcounter.com/counter/counter.php?page=7291594&style=0024&nbdigits=6&type=page&initCount=0" title="Web Counter" Alt="counter free"   border="0" >
 </a> 
 
