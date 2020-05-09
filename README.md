@@ -4,9 +4,9 @@
 
 # Hosan_Colab <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fhosantemp%2Fhosan-colab" alt="Hits">
 
-<!-- Badge Code - Do Not Change The Code -->
-<a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="99cd2175108d157588c04758296d1cfc|6|page|1|#212af8|#ededed|large|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
-<!-- Badge Code End Here --> 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hosantemp.hosan-colab)
+ 
 
 <b>Features:</b><br>
 `Simple Torrent, peerflix-server, deluge, aria2, ariang, rclone, rclone WebUI, Jdownloader, Youtube-dl, Netdata, Cloud Commander, 
